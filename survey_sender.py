@@ -20,7 +20,7 @@ Thank you for your recent purchase. Please take a moment to complete this short 
 [Insert Link Here]
 
 Best regards,  
-Truist Financial Team
+Manideep Reddy Putta 
 """
 
 # Send emails
