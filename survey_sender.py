@@ -7,8 +7,8 @@ from email.mime.multipart import MIMEMultipart
 recipients = pd.read_csv("responses.csv")
 
 # Email configuration
-sender_email = "manideepreddyputta@gmail.com"
-password = "qtrf fapy ociv sfej"  # Use environment variable in real apps
+sender_email = "os.getenv("EMAIL")"
+password = "os.getenv("APP_PASSWORD")"  # Use environment variable in real apps
 
 # Email content
 subject = "We value your feedback!"
